@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "chPZypPK5FGVjrs+R9EcPqNSZtDObAWAcod1SttKa7K9BkOq7DuCouVH3mYbWrKs3frZWH4nsWSOVyMmvB6gqw==",
+  "dgSpecHash": "ifBb+pxOYpJ4iHBXldxRAQ28V4Nb3C45u+KFOXdAyvwN+wfZ7oFWL84+KXfiGCNs9yHIYvt94L8q+eOn9v0uzA==",
   "success": true,
-  "projectFilePath": "H:\\Codes\\CppStudy\\MLStudy\\MLStudy.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\cxf21\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.11\\microsoft.netcore.app.host.win-x64.5.0.11.nupkg.sha512",
-    "C:\\Users\\cxf21\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\cxf21\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\cxf21\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\Codes\\MLTools\\MLStudy\\MLStudy.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

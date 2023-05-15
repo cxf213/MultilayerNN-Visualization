@@ -1,24 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Codes\\CppStudy\\MLStudy\\MLStudy.csproj": {}
+    "D:\\Codes\\MLTools\\MLStudy\\MLStudy.csproj": {}
   },
   "projects": {
-    "H:\\Codes\\CppStudy\\MLStudy\\MLStudy.csproj": {
+    "D:\\Codes\\MLTools\\MLStudy\\MLStudy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Codes\\CppStudy\\MLStudy\\MLStudy.csproj",
+        "projectUniqueName": "D:\\Codes\\MLTools\\MLStudy\\MLStudy.csproj",
         "projectName": "MLStudy",
-        "projectPath": "H:\\Codes\\CppStudy\\MLStudy\\MLStudy.csproj",
-        "packagesPath": "C:\\Users\\cxf21\\.nuget\\packages\\",
-        "outputPath": "H:\\Codes\\CppStudy\\MLStudy\\obj\\",
+        "projectPath": "D:\\Codes\\MLTools\\MLStudy\\MLStudy.csproj",
+        "packagesPath": "C:\\Users\\CXF\\.nuget\\packages\\",
+        "outputPath": "D:\\Codes\\MLTools\\MLStudy\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\cxf21\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CXF\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0-windows7.0"
+          "net5.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -45,28 +49,11 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.11, 5.0.11]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -75,7 +62,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

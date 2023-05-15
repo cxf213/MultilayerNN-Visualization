@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-h:\Codes\CppStudy\MLStudy\obj\Debug\net5.0-windows\
+d:\Codes\MLTools\MLStudy\obj\Debug\net5.0-windows\
 MLStudy
 none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
-h:\Codes\CppStudy\MLStudy\App.xaml
+d:\Codes\MLTools\MLStudy\App.xaml
 11407045341
 
 15-1551820550
-193-1887218518
+193-1891726104
 MainWindow.xaml;
 
 True
